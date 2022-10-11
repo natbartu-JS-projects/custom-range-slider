@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #f6f7fb;
+  background-color: #8f99bf;
   font-family: 'Roboto', 'san-serif';
   display: flex;
   flex-direction: column;
@@ -28,4 +28,5 @@ h2 {
 input[type="range"] {
   width: 300px;
   margin: 18px 0;
+  -webkit-appearance: none;
 }
