@@ -87,7 +87,7 @@ input[type="range"]::-moz-range-thumb {
   margin-top: -4px;
 }
 
-/* IE */
+/* IE - internet explore */
 input[type="range"]::-ms-track {
   background: #2e2e88;
   border-radius: 30px;
