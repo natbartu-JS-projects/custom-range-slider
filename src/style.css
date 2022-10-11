@@ -2,7 +2,6 @@
 
 * {
   box-sizing: border-box;
-  /* border: solid #5B6DCD 1px; */
 }
 
 body {
@@ -15,4 +14,9 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+h2 {
+  position: absolute;
+  top: 10px;
 }
